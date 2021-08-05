@@ -1,9 +1,8 @@
 body {
-	margin: 0;
-	padding: 0;
-	background-color: #2b5a54;
-	color: white;
-	font-family: "Open Sans", sans-serif;
-
-
-} 
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans", sans-serif
+  ;
+  color: white;
+  background-color: #22666e;
+}
